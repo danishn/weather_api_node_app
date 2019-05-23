@@ -10,5 +10,5 @@
 4. Test case framework integration reference: https://medium.com/@jodylecompte/express-routes-a-tdd-approach-1e12a0799352
 
 API:
-GET: localhost:3000/api/weather/<city_name>
+GET: http://localhost:3000/api/weather/<city_name>    
 headers: api_key: 7naQne2YbUFAWwhFZLdVa08DtAwMBoEF
