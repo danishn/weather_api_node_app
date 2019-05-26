@@ -4,8 +4,7 @@
   "description": "Open API integration with Express.js",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "mocha ./tests --recursive"
+    "start": "node index.js"
   },
   "author": "Danish Nadaf",
   "license": "ISC",
